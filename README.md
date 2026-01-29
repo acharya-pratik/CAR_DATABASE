@@ -1,11 +1,35 @@
-This is a CAR database made using SQL. This is a sample database containing typical business data such as customers,products, sale orders, sale order line items and etc.
+# 🚗 CAR_DATABASE
 
-#this database schema contains:
-Customers: Stores customers's data
-Products: Stores a list of scale model cars.
-ProductLines: Stores a list of product line category.
-Orders: Stores orders placed by customers.
-OrderDetails: Stores order line items in each order.
-Payments: Stores payments made by customers based on their account.
-Employees: Stores all employee information include organization unit structure such as who reports to whom.
-Offices: Stores sale office data.
+A simple **Car / Product Database** created using **SQL** for DBMS practice and academic learning.
+
+---
+
+## 📌 Project Description
+
+This project contains a self-created SQL database focused on car and product management.  
+It is designed to help understand **database design, relationships, and SQL queries**.
+
+---
+
+## 🗂️ Files Included
+
+- `CAR.sql` – SQL script to create tables and insert sample data
+
+---
+
+## 🧱 Database Features
+
+- Well-structured tables
+- Primary and Foreign key relationships
+- Sample records for testing
+- Useful for DBMS labs, assignments, and practice
+
+---
+
+## 🛠️ Technologies Used
+
+- SQL  
+- MySQL / MariaDB (recommended)
+
+---
+
